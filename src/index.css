@@ -10,6 +10,6 @@
 
 @layer base {
   body {
-    @apply bg-jet font-montserrat;
+    @apply bg-silverChalice font-montserrat;
   }
 }
