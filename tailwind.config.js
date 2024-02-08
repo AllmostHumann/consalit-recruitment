@@ -17,7 +17,7 @@ export default {
         jet: '#333333',
       },
       backgroundImage: {
-        'fire-background': "url('src/assets/images/fire.svg')",
+        'fire-background': "url('../src/assets/images/fire.svg')",
       },
       animation: {
         shake: 'shake 0.82s cubic-bezier(.36,.07,.19,.97) both',
