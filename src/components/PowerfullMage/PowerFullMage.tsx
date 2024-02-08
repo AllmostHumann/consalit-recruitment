@@ -49,7 +49,7 @@ export const PowerFullMage: React.FC<PowerFullMageProps> = ({
           {mageRenderReaction()}
         </p>
       </div>
-      <MageIcon className={`mx-24 mt-5 h-auto w-[300px] ${mageIconClass}`} />
+      <MageIcon className={`mx-28 mt-5 h-auto w-[300px] ${mageIconClass}`} />
     </div>
   );
 };
