@@ -31,7 +31,7 @@ export const BattleMage = () => {
             name='spellInput'
             type='text'
             placeholder='Cast custom spell'
-            className='w-60 rounded-md border-[1px] border-solid border-black bg-white p-1 font-semibold text-black placeholder:pl-2'
+            className='w-60 rounded-md border-[1px] border-solid border-black bg-white py-1 pl-2 font-semibold text-black  placeholder:pl-2'
             debounceTimeout={300}
             value={value}
             onChange={(event) => setValue(event.target.value)}
