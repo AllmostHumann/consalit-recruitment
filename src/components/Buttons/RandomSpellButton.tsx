@@ -11,7 +11,7 @@ export const RandomSpellButton: React.FC<RandomSpellButtonProps> = ({
   return (
     <div className='my-2 grid place-items-center'>
       <button
-        className='rounded-md border-[1px] border-solid border-black bg-white p-1 font-semibold text-black'
+        className='w-60 rounded-md border-[1px] border-solid border-black bg-white p-1 font-semibold text-black'
         onClick={onClick}
       >
         <div className='flex flex-row justify-center gap-2 p-2'>
